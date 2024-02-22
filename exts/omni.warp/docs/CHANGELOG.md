@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [0.13.1] - 2024-02-22
+
+- Ensure that the results from the `Noise Deform` are deterministic across different Kit sessions
+
 ## [0.13.0] - 2024-02-16
 
 - Update the license to *NVIDIA Software License*, allowing commercial use (see `LICENSE.md`)
