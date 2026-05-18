@@ -1,0 +1,7 @@
+﻿warp.types.is\_scalar
+=====================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: is_scalar

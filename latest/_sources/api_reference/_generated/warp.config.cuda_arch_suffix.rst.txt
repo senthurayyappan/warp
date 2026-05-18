@@ -1,0 +1,7 @@
+﻿warp.config.cuda\_arch\_suffix
+==============================
+
+.. currentmodule:: warp.config
+
+
+.. autodata:: cuda_arch_suffix

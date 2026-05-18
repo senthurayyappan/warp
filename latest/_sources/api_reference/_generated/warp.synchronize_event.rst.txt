@@ -1,0 +1,7 @@
+﻿warp.synchronize\_event
+=======================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: synchronize_event

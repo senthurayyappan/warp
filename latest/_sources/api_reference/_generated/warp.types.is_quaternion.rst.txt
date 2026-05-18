@@ -1,0 +1,7 @@
+﻿warp.types.is\_quaternion
+=========================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: is_quaternion

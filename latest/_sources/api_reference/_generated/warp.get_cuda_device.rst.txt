@@ -1,0 +1,7 @@
+﻿warp.get\_cuda\_device
+======================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: get_cuda_device

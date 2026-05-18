@@ -1,0 +1,7 @@
+﻿warp.kernel
+===========
+
+.. currentmodule:: warp
+
+
+.. autofunction:: kernel

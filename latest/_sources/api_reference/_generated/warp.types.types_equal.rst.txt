@@ -1,0 +1,7 @@
+﻿warp.types.types\_equal
+=======================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: types_equal

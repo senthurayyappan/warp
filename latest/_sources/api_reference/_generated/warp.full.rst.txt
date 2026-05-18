@@ -1,0 +1,7 @@
+﻿warp.full
+=========
+
+.. currentmodule:: warp
+
+
+.. autofunction:: full

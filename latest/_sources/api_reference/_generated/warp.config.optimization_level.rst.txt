@@ -1,0 +1,7 @@
+﻿warp.config.optimization\_level
+===============================
+
+.. currentmodule:: warp.config
+
+
+.. autodata:: optimization_level

@@ -1,0 +1,7 @@
+﻿warp.fem.linalg.skew\_part
+==========================
+
+.. currentmodule:: warp.fem.linalg
+
+
+.. autodata:: skew_part

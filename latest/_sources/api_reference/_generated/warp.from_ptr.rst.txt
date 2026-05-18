@@ -1,0 +1,7 @@
+﻿warp.from\_ptr
+==============
+
+.. currentmodule:: warp
+
+
+.. autofunction:: from_ptr

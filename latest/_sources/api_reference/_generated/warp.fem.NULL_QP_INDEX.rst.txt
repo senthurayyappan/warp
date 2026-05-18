@@ -1,0 +1,7 @@
+﻿warp.fem.NULL\_QP\_INDEX
+========================
+
+.. currentmodule:: warp.fem
+
+
+.. autodata:: NULL_QP_INDEX

@@ -1,0 +1,7 @@
+﻿warp.Int
+========
+
+.. currentmodule:: warp
+
+
+.. autodata:: Int

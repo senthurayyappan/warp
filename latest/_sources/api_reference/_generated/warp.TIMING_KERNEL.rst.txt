@@ -1,0 +1,7 @@
+﻿warp.TIMING\_KERNEL
+===================
+
+.. currentmodule:: warp
+
+
+.. autodata:: TIMING_KERNEL

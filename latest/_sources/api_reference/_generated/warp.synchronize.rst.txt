@@ -1,0 +1,7 @@
+﻿warp.synchronize
+================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: synchronize

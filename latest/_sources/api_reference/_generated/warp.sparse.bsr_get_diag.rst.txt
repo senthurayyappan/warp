@@ -1,0 +1,7 @@
+﻿warp.sparse.bsr\_get\_diag
+==========================
+
+.. currentmodule:: warp.sparse
+
+
+.. autofunction:: bsr_get_diag

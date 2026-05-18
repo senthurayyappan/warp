@@ -1,0 +1,7 @@
+﻿warp.func
+=========
+
+.. currentmodule:: warp
+
+
+.. autofunction:: func

@@ -1,0 +1,7 @@
+﻿warp.synchronize\_device
+========================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: synchronize_device

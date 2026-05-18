@@ -1,0 +1,7 @@
+﻿warp.autograd.jacobian\_fd
+==========================
+
+.. currentmodule:: warp.autograd
+
+
+.. autofunction:: jacobian_fd

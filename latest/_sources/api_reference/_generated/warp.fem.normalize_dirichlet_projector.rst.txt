@@ -1,0 +1,7 @@
+﻿warp.fem.normalize\_dirichlet\_projector
+========================================
+
+.. currentmodule:: warp.fem
+
+
+.. autofunction:: normalize_dirichlet_projector

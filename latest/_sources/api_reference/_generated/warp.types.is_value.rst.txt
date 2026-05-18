@@ -1,0 +1,7 @@
+﻿warp.types.is\_value
+====================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: is_value

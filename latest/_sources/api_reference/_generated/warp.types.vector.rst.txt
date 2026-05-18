@@ -1,0 +1,7 @@
+﻿warp.types.vector
+=================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: vector

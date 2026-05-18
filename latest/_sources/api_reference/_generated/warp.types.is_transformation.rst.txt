@@ -1,0 +1,7 @@
+﻿warp.types.is\_transformation
+=============================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: is_transformation

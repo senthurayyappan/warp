@@ -1,0 +1,7 @@
+﻿warp.fem.inner
+==============
+
+.. currentmodule:: warp.fem
+
+
+.. autodata:: inner

@@ -1,0 +1,7 @@
+﻿warp.TIMING\_KERNEL\_BUILTIN
+============================
+
+.. currentmodule:: warp
+
+
+.. autodata:: TIMING_KERNEL_BUILTIN

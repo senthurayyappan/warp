@@ -1,0 +1,7 @@
+﻿warp.full\_like
+===============
+
+.. currentmodule:: warp
+
+
+.. autofunction:: full_like

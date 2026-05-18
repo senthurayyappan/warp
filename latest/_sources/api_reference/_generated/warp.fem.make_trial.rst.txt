@@ -1,0 +1,7 @@
+﻿warp.fem.make\_trial
+====================
+
+.. currentmodule:: warp.fem
+
+
+.. autofunction:: make_trial

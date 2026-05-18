@@ -1,0 +1,7 @@
+﻿warp.device\_from\_torch
+========================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: device_from_torch

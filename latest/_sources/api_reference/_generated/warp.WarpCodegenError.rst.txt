@@ -1,0 +1,7 @@
+﻿warp.WarpCodegenError
+=====================
+
+.. currentmodule:: warp
+
+
+.. autoexception:: WarpCodegenError

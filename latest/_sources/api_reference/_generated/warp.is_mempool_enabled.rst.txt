@@ -1,0 +1,7 @@
+﻿warp.is\_mempool\_enabled
+=========================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: is_mempool_enabled

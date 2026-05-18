@@ -1,0 +1,7 @@
+﻿warp.wait\_stream
+=================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: wait_stream

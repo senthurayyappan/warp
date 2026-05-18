@@ -1,0 +1,7 @@
+﻿warp.matrix\_from\_cols
+=======================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: matrix_from_cols

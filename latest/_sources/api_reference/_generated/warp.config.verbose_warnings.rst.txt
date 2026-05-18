@@ -1,0 +1,7 @@
+﻿warp.config.verbose\_warnings
+=============================
+
+.. currentmodule:: warp.config
+
+
+.. autodata:: verbose_warnings

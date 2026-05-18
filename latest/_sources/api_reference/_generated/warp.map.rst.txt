@@ -1,0 +1,7 @@
+﻿warp.map
+========
+
+.. currentmodule:: warp
+
+
+.. autofunction:: map

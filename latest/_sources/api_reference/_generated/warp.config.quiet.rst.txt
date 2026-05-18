@@ -1,0 +1,7 @@
+﻿warp.config.quiet
+=================
+
+.. currentmodule:: warp.config
+
+
+.. autodata:: quiet

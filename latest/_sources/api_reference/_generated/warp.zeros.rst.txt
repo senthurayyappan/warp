@@ -1,0 +1,7 @@
+﻿warp.zeros
+==========
+
+.. currentmodule:: warp
+
+
+.. autofunction:: zeros

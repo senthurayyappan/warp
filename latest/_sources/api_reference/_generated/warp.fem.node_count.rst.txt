@@ -1,0 +1,7 @@
+﻿warp.fem.node\_count
+====================
+
+.. currentmodule:: warp.fem
+
+
+.. autodata:: node_count

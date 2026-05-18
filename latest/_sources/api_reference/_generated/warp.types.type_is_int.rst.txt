@@ -1,0 +1,7 @@
+﻿warp.types.type\_is\_int
+========================
+
+.. currentmodule:: warp.types
+
+
+.. autofunction:: type_is_int

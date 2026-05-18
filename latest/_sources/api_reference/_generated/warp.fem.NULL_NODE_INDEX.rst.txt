@@ -1,0 +1,7 @@
+﻿warp.fem.NULL\_NODE\_INDEX
+==========================
+
+.. currentmodule:: warp.fem
+
+
+.. autodata:: NULL_NODE_INDEX

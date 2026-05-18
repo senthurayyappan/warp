@@ -1,0 +1,7 @@
+﻿warp.from\_ipc\_handle
+======================
+
+.. currentmodule:: warp
+
+
+.. autofunction:: from_ipc_handle

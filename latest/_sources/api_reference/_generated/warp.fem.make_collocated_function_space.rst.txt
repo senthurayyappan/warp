@@ -1,0 +1,7 @@
+﻿warp.fem.make\_collocated\_function\_space
+==========================================
+
+.. currentmodule:: warp.fem
+
+
+.. autofunction:: make_collocated_function_space

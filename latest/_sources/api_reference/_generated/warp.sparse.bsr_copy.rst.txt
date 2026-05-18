@@ -1,0 +1,7 @@
+﻿warp.sparse.bsr\_copy
+=====================
+
+.. currentmodule:: warp.sparse
+
+
+.. autofunction:: bsr_copy

@@ -1,0 +1,7 @@
+﻿warp.sparse.bsr\_assign
+=======================
+
+.. currentmodule:: warp.sparse
+
+
+.. autofunction:: bsr_assign
